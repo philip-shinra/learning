@@ -2,3 +2,5 @@ working on new features
 1.work on visuals
 2.work on UI
 every thing is done , lets see
+feature 1
+
